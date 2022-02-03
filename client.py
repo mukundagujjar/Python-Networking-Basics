@@ -19,4 +19,4 @@ def send(msg):
 	client.send(send_length)
 	client.send(message)
 
-send("Mukunda says Hare Krishna !") 
+send("Mukunda says Hello !") 
